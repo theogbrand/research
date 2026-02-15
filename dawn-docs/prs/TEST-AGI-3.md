@@ -6,7 +6,7 @@
 
 ## Summary
 
-This PR adds a new file containing a fun fact about Singapore, specifically about its surprising geography as a city-state composed of 63 islands with continuously expanding land area through reclamation. This fulfills the TEST-AGI-3 issue request.
+This PR adds a new file containing a fun fact about Singapore's world-first Night Safari wildlife park. This fulfills the TEST-AGI-3 issue request to add a fun fact about Singapore.
 
 ## Problem
 
@@ -14,12 +14,12 @@ The repository needed a fun fact about Singapore as specified by the TEST-AGI-3 
 
 ## Solution
 
-Added a new text file `singapore_fact.txt` containing a detailed and engaging fun fact about Singapore's island geography and land reclamation efforts.
+Added a new text file `singapore_fact.txt` containing a detailed and engaging fun fact about Singapore's Night Safari — the world's first nocturnal wildlife park, which opened in 1994 and features custom-engineered lighting that allows human visitors to observe over 900 nocturnal animals while the animals behave as if in complete darkness.
 
 ## Changes
 
 ### Files Changed
-- `singapore_fact.txt` - New file containing a fun fact about Singapore's 63 islands and land reclamation history
+- `singapore_fact.txt` - New file containing a fun fact about Singapore's pioneering Night Safari wildlife park
 
 ## Testing
 
