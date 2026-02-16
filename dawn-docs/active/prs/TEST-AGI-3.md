@@ -6,7 +6,7 @@
 
 ## Summary
 
-Creates a `singapore_fact.txt` file containing a surprising fun fact about Singapore — specifically that it is composed of 64 islands and has grown its land area by over 25% through reclamation since independence.
+Creates a `singapore_fact.txt` file containing a surprising fun fact about Singapore's Marina Barrage — a dam that converted the city's iconic Marina Bay from saltwater to freshwater, creating a downtown reservoir unlike any other major city.
 
 ## Problem
 
@@ -14,17 +14,18 @@ The task required writing an interesting and surprising fun fact about Singapore
 
 ## Solution
 
-Created `singapore_fact.txt` in the repository root with a fun fact about Singapore's 64 islands and its extensive land reclamation program that has expanded the country's area by over 25% since 1965.
+Created `singapore_fact.txt` in the repository root with a fun fact about Singapore's Marina Barrage — how the country turned its downtown Marina Bay from saltwater into a freshwater reservoir, combining urban planning, flood control, and water security into one engineering feat.
 
 ## Changes
 
 ### Files Changed
-- `singapore_fact.txt` - New file containing a fun fact about Singapore's islands and land reclamation
+- `singapore_fact.txt` - New file containing the Singapore fun fact
 
 ## Testing
 
 ### Manual Verification
-- Verified file exists and contains the fun fact text
+- Verified that `singapore_fact.txt` exists in the repository root
+- Verified the content contains a surprising and interesting fun fact about Singapore
 
 ## Breaking Changes
 
@@ -40,6 +41,6 @@ N/A - no web server
 
 ## Screenshots
 
-N/A - non-UI change
+N/A - no UI changes
 
 ---
